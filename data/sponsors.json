@@ -1,0 +1,106 @@
+[
+  {
+    "id": "dr-pedro-henrique",
+    "name": "Dr. Pedro Henrique",
+    "logo": "/logos/1.Dr Pedro Henrique.png",
+    "whatsapp": "5581982287791",
+    "instagram": "drp_edrohenrique",
+    "active": true
+  },
+  {
+    "id": "dra-natasha-porto",
+    "name": "Dra. Natasha Porto",
+    "logo": "/logos/2.Dra Natasha Porto.png",
+    "whatsapp": "5581980121933",
+    "instagram": "dra.natashaporto",
+    "active": true
+  },
+  {
+    "id": "roval",
+    "name": "Roval",
+    "logo": "/logos/3.Roval.png",
+    "whatsapp": "558182403424",
+    "instagram": "rovalsantacruz",
+    "active": true
+  },
+  {
+    "id": "invicta",
+    "name": "Invicta",
+    "logo": "/logos/4.Invicta.png",
+    "whatsapp": "5581992177544",
+    "instagram": "invicta_fclothing",
+    "active": true
+  },
+  {
+    "id": "blink",
+    "name": "Blink",
+    "logo": "/logos/5.Blink.png",
+    "whatsapp": "5581981365208",
+    "instagram": "useblinkfitness",
+    "active": true
+  },
+  {
+    "id": "polyana-ferreira",
+    "name": "Polyana Ferreira",
+    "logo": "/logos/6.Polyana Ferreira.png",
+    "whatsapp": "5581992644311",
+    "instagram": "polyanaferreira_makeup",
+    "active": true
+  },
+  {
+    "id": "bks-suplementos",
+    "name": "BKS Suplementos",
+    "logo": "/logos/7.BKS Suplementos.png",
+    "whatsapp": "5581996844869",
+    "instagram": "bks_suplementos",
+    "active": true
+  },
+  {
+    "id": "rafa-hogana",
+    "name": "Rafa Hogana",
+    "logo": "/logos/8.Rafa Hogana.png",
+    "whatsapp": "5581991821901",
+    "instagram": "hogaha_estetica",
+    "active": true
+  },
+  {
+    "id": "williana-lucena",
+    "name": "Williana Lucena",
+    "logo": "/logos/9.Williana Lucena.png",
+    "whatsapp": "5581992701026",
+    "instagram": "williana_cabeleireira",
+    "active": true
+  },
+  {
+    "id": "luana-priscila",
+    "name": "Luana Priscila",
+    "logo": "/logos/10.Luana Priscila.png",
+    "whatsapp": "5581992250603",
+    "instagram": "foot.spar",
+    "active": true
+  },
+  {
+    "id": "milson-cabelos",
+    "name": "Milson Cabelos",
+    "logo": "/logos/11.Milson Cabelos.png",
+    "whatsapp": "5581981574271",
+    "instagram": "milson.s",
+    "active": true
+  },
+  {
+    "id": "sabrina-goulart",
+    "name": "Sabrina Goulart",
+    "logo": "/logos/12.Sabrina Goulart.png",
+    "whatsapp": "5581999754033",
+    "instagram": "sabrinagoulartof",
+    "active": true
+  },
+  {
+    "id": "dr-joao-abreu",
+    "name": "Dr. João Abreu",
+    "logo": "/logos/13.Dr João Abreu.png",
+    "whatsapp": "5581981945843",
+    "instagram": "lab.dr.joaoabreu",
+    "active": true
+  }
+]
