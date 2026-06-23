@@ -49,6 +49,7 @@ export type Sponsor = {
   logo: string;         // Caminho da imagem, ex: "/logos/suplementos-xyz.png"
   whatsapp: string;     // Número com DDI, ex: "5581999999999"
   instagram: string;    // Usuário sem @, ex: "suplementosxyz"
+  discount?: string;    // Texto completo do desconto, ex: "20% de desconto" ou "15% de desconto no pacote escova"
   active: boolean;      // Se aparece na página pública
 };
 ```
@@ -60,6 +61,7 @@ export type Sponsor = {
 Cada card exibe:
 - **Lado esquerdo:** nome do patrocinador, ícone do WhatsApp com link `https://wa.me/{whatsapp}`, ícone do Instagram com link `https://instagram.com/{instagram}`
 - **Lado direito:** logo exibida em 200×200px (arquivo fonte em 500×500px)
+- **Rodapé (se houver `discount`):** faixa destacada com "🎁 {discount}" (o campo já contém o texto completo, ex: "20% de desconto") — só aparece quando o patrocinador tem desconto cadastrado
 
 Os cards são organizados em um **grid responsivo** (1 coluna no mobile, 2 no tablet, 3 no desktop).
 

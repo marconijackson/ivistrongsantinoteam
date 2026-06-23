@@ -5,6 +5,7 @@
     "logo": "/logos/1.Dr Pedro Henrique.png",
     "whatsapp": "5581982287791",
     "instagram": "drp_edrohenrique",
+    "discount": "20% de desconto",
     "active": true
   },
   {
@@ -13,6 +14,7 @@
     "logo": "/logos/2.Dra Natasha Porto.png",
     "whatsapp": "5581980121933",
     "instagram": "dra.natashaporto",
+    "discount": "10% de desconto",
     "active": true
   },
   {
@@ -21,6 +23,7 @@
     "logo": "/logos/3.Roval.png",
     "whatsapp": "558182403424",
     "instagram": "rovalsantacruz",
+    "discount": "20% de desconto",
     "active": true
   },
   {
@@ -29,6 +32,7 @@
     "logo": "/logos/4.Invicta.png",
     "whatsapp": "5581992177544",
     "instagram": "invicta_fclothing",
+    "discount": "15% de desconto",
     "active": true
   },
   {
@@ -37,6 +41,7 @@
     "logo": "/logos/5.Blink.png",
     "whatsapp": "5581981365208",
     "instagram": "useblinkfitness",
+    "discount": "10% de desconto",
     "active": true
   },
   {
@@ -45,6 +50,7 @@
     "logo": "/logos/6.Polyana Ferreira.png",
     "whatsapp": "5581992644311",
     "instagram": "polyanaferreira_makeup",
+    "discount": "10% de desconto",
     "active": true
   },
   {
@@ -53,6 +59,7 @@
     "logo": "/logos/7.BKS Suplementos.png",
     "whatsapp": "5581996844869",
     "instagram": "bks_suplementos",
+    "discount": "5% de desconto",
     "active": true
   },
   {
@@ -61,6 +68,7 @@
     "logo": "/logos/8.Rafa Hogana.png",
     "whatsapp": "5581991821901",
     "instagram": "hogaha_estetica",
+    "discount": "30% de desconto",
     "active": true
   },
   {
@@ -69,6 +77,7 @@
     "logo": "/logos/9.Williana Lucena.png",
     "whatsapp": "5581992701026",
     "instagram": "williana_cabeleireira",
+    "discount": "15% de desconto no pacote escova",
     "active": true
   },
   {
@@ -77,6 +86,7 @@
     "logo": "/logos/10.Luana Priscila.png",
     "whatsapp": "5581992250603",
     "instagram": "foot.spar",
+    "discount": "15% de desconto no spa e cutilagem",
     "active": true
   },
   {
@@ -85,6 +95,7 @@
     "logo": "/logos/11.Milson Cabelos.png",
     "whatsapp": "5581981574271",
     "instagram": "milson.s",
+    "discount": "10% de desconto",
     "active": true
   },
   {
@@ -93,6 +104,7 @@
     "logo": "/logos/12.Sabrina Goulart.png",
     "whatsapp": "5581999754033",
     "instagram": "sabrinagoulartof",
+    "discount": "15% de desconto",
     "active": true
   },
   {
@@ -101,6 +113,7 @@
     "logo": "/logos/13.Dr João Abreu.png",
     "whatsapp": "5581981945843",
     "instagram": "lab.dr.joaoabreu",
+    "discount": "20% de desconto",
     "active": true
   }
 ]

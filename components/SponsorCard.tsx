@@ -19,37 +19,44 @@ function InstagramIcon() {
 
 export default function SponsorCard({ sponsor }: { sponsor: Sponsor }) {
   return (
-    <div className="flex items-center justify-between gap-4 rounded-xl border border-zinc-200 bg-white p-4 shadow-sm">
-      <div className="flex flex-col gap-3">
-        <h3 className="text-lg font-semibold text-zinc-900">{sponsor.name}</h3>
-        <div className="flex gap-3">
-          <a
-            href={`https://wa.me/${sponsor.whatsapp}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label={`WhatsApp de ${sponsor.name}`}
-            className="text-zinc-500 transition-colors hover:text-green-600"
-          >
-            <WhatsAppIcon />
-          </a>
-          <a
-            href={`https://instagram.com/${sponsor.instagram}`}
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label={`Instagram de ${sponsor.name}`}
-            className="text-zinc-500 transition-colors hover:text-pink-600"
-          >
-            <InstagramIcon />
-          </a>
+    <div className="flex h-full flex-col rounded-xl border border-zinc-200 bg-white shadow-sm">
+      <div className="flex flex-1 items-center justify-between gap-4 p-4">
+        <div className="flex flex-col gap-3">
+          <h3 className="text-lg font-semibold text-zinc-900">{sponsor.name}</h3>
+          <div className="flex gap-3">
+            <a
+              href={`https://wa.me/${sponsor.whatsapp}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`WhatsApp de ${sponsor.name}`}
+              className="text-zinc-500 transition-colors hover:text-green-600"
+            >
+              <WhatsAppIcon />
+            </a>
+            <a
+              href={`https://instagram.com/${sponsor.instagram}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`Instagram de ${sponsor.name}`}
+              className="text-zinc-500 transition-colors hover:text-pink-600"
+            >
+              <InstagramIcon />
+            </a>
+          </div>
         </div>
+        <Image
+          src={sponsor.logo}
+          alt={sponsor.name}
+          width={200}
+          height={200}
+          className="shrink-0 rounded-lg object-cover"
+        />
       </div>
-      <Image
-        src={sponsor.logo}
-        alt={sponsor.name}
-        width={200}
-        height={200}
-        className="shrink-0 rounded-lg object-cover"
-      />
+      {sponsor.discount && (
+        <div className="rounded-b-xl border-t border-zinc-100 bg-amber-50 px-4 py-2 text-sm font-medium text-amber-800">
+          🎁 {sponsor.discount}
+        </div>
+      )}
     </div>
   );
 }
