@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Patrocinadores",
-  description: "Patrocinadores que apoiam os atletas",
+  title: "Parceiros",
+  description: "Juntos somos mais fortes",
 };
 
 export default function RootLayout({
