@@ -68,7 +68,7 @@
     "logo": "/logos/8.Rafa Hogana.png",
     "whatsapp": "5581991821901",
     "instagram": "hogaha_estetica",
-    "discount": "30% de desconto",
+    "discount": "20% de desconto",
     "active": true
   },
   {
@@ -114,6 +114,15 @@
     "whatsapp": "5581981945843",
     "instagram": "lab.dr.joaoabreu",
     "discount": "20% de desconto",
+    "active": true
+  },
+  {
+    "id": "kaio-imports",
+    "name": "Kaio Imports",
+    "logo": "/logos/14.Kaio Imports.png",
+    "whatsapp": "5581993179000",
+    "instagram": "kaiorimports",
+    "discount": "10% de desconto",
     "active": true
   }
 ]
