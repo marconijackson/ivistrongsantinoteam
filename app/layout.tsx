@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Parceiros",
+  title: "Ivistrong e Santino Team - Parceiros",
   description: "Juntos somos mais fortes",
 };
 
