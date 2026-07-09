@@ -54,6 +54,11 @@ export type Sponsor = {
 };
 ```
 
+### Formato dos campos `whatsapp` e `instagram`
+
+- **`whatsapp`:** somente dígitos, sempre com DDI `55` + DDD + número, sem espaços, parênteses, traços ou o sinal `+`. Ex: o número informado como `(81) 98262-9899` vira `"5581982629899"`. Esse formato é obrigatório porque o link é montado como `https://wa.me/{whatsapp}`.
+- **`instagram`:** apenas o nome de usuário, sem `@` e sem URL. Ex: `"dr.kleberleite"`, não `"@dr.kleberleite"`. Esse formato é obrigatório porque o link é montado como `https://instagram.com/{instagram}`.
+
 ---
 
 ## Layout do card (página pública)

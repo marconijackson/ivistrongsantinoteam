@@ -124,5 +124,14 @@
     "instagram": "kaiorimports",
     "discount": "10% de desconto",
     "active": true
+  },
+  {
+    "id": "dr-kleber-leite",
+    "name": "Dr. Kleber Leite",
+    "logo": "/logos/15.Dr. Kleber Leite.png",
+    "whatsapp": "5581982629899",
+    "instagram": "dr.kleberleite",
+    "discount": "15% de desconto",
+    "active": true
   }
 ]
