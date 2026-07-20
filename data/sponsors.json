@@ -133,5 +133,14 @@
     "instagram": "dr.kleberleite",
     "discount": "15% de desconto",
     "active": true
+  },
+  {
+    "id": "lary-barbosa",
+    "name": "Lary Barbosa",
+    "logo": "/logos/16.Lary Barbosa.png",
+    "whatsapp": "5581989464423",
+    "instagram": "lary.naildesigner",
+    "discount": "10% de desconto",
+    "active": true
   }
 ]
